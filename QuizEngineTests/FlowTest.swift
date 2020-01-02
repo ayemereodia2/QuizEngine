@@ -10,7 +10,7 @@ import Foundation
 import XCTest
 @testable import QuizEngine
 
-class FlowTest:XCTestCase {
+class FlowTest: XCTestCase {
 
     let router = RouterSpy()
     
